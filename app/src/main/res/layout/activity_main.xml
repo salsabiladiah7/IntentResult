@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1">
+
+    <TextView
+        android:id="@+id/bio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="My Identity"
+        android:textColor="#A5303B"
+        android:textSize="45sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/text_view_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/bio"
+        android:layout_marginTop="32dp"
+        android:gravity="center"
+        android:text="Name"
+        android:textColor="#E5665A"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/text_view_result2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_view_result"
+        android:layout_marginTop="32dp"
+        android:gravity="center"
+        android:text="Date of Birth"
+        android:textColor="#E5665A"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/text_view_result3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_view_result2"
+        android:layout_marginTop="32dp"
+        android:gravity="center"
+        android:text="Age"
+        android:textColor="#E5665A"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/text_view_result4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_view_result3"
+        android:layout_marginTop="32dp"
+        android:gravity="center"
+        android:text="Hobby"
+        android:textColor="#E5665A"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/text_view_result5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_view_result4"
+        android:layout_marginTop="32dp"
+        android:gravity="center"
+        android:text="Email"
+        android:textColor="#E5665A"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/btn_edit"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_view_result5"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:text="Edit Name" />
+
+</RelativeLayout>
