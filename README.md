@@ -5,11 +5,18 @@
 
 ### Hasil Program
 ![ezgif-2-802247a68ab0](https://user-images.githubusercontent.com/60590053/109178001-f8662c00-77ba-11eb-98b5-5bedda35f2df.gif)
+
 - Sebelum Edit Data
+
 ![WhatsApp Image 2021-02-25 at 22 27 24](https://user-images.githubusercontent.com/60590053/109177026-f8b1f780-77b9-11eb-95ad-dec99a2b570f.jpeg)
+
 - Saat Mengedit Data
+
+
 ![WhatsApp Image 2021-02-25 at 22 27 23 (1)](https://user-images.githubusercontent.com/60590053/109177042-fbace800-77b9-11eb-98d5-d7444675bf53.jpeg)
+
 - Setelah Data di Save
+
 ![WhatsApp Image 2021-02-25 at 22 27 23](https://user-images.githubusercontent.com/60590053/109177037-fa7bbb00-77b9-11eb-974b-39fe8aa87799.jpeg)
 
 
