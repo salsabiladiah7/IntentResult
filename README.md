@@ -4,7 +4,7 @@
 > Selain melewatkan parameter object 'Intent', kita juga perlu melewatkan parameter 'request code'. Request code ini sederhananya adalah suatu nilai integer yang mengidentifikasi activity yang kita panggil. Kode ini diperlukan karena bila suatu activity mengembalikan suatu nilai, kita harus punya cara untuk mengidentifikasinya. Misalnya, kita mungkin memanggil banyak activity pada saat yang sama, dan beberapa activity mungkin tidak merespon dengan segera (misalnya menunggu jawaban dari suatu server). Bila activity merespon, kita perlu request code tersebut untuk menentukan activity mana yang merespon ini. [Learn more...](https://www.jodemy.com/2017/02/mengembalikan-hasil-dari-suatu-intent.html)
 
 ### Hasil Program
-![ezgif-2-802247a68ab0](https://user-images.githubusercontent.com/60590053/109178001-f8662c00-77ba-11eb-98b5-5bedda35f2df.gif)
+![WhatsApp-Video-2021-02-25-at-222 (1)](https://user-images.githubusercontent.com/60590053/109195489-29e7f300-77cd-11eb-9136-ea021b3edf39.gif)
 
 - Sebelum Edit Data
 
